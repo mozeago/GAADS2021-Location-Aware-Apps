@@ -1,0 +1,359 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\9b3af8ee48854956e64c5d03d9d87074\transformed\jetified-room-ktx-2.2.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\73244244278ecba1db05e1268901655e\transformed\navigation-fragment-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\24199de82f78352fbf90652f7dfe57b6\transformed\navigation-ui-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\e82ef0145a016b5786cfc6c94b1a3514\transformed\navigation-runtime-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\mozze\.gradle\caches\transforms-3\8abca6a57d00932525c6fb79138f7c58\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\92a0429493e8d6b2ed74f296025607ba\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\0b16399a87e1e78f0f05bf0455cb9a2e\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\5e1f8c2d52852577bf112acd22aa052b\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\mozze\.gradle\caches\transforms-3\8ee64754a6241bd3be69dfa0cb091446\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\53619b77004e7848b6e03b5a2c87a6f3\transformed\navigation-ui-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\9f2c6f9a4e6c02b5e4b4244e580479e5\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\af0c68fb85ca28fbeb301a4925ca87a9\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\mozze\.gradle\caches\transforms-3\c085b2708785adb18f9d6b4f74640dd6\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mozze\.gradle\caches\transforms-3\e0887372f90d422b468c6155de2772c0\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\d54f5e1055c35482bf6bf39c9caf056a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\1f72b774a3854f3191f37e7c28b8de83\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\6f87d530494e5e59de6fb5cec18d2d5c\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\f71653595808e635c261d5272003185a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\65b6b623f46b0c249a2643db60cb6c01\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\84eae934e790338eb836be49a0d04bf4\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\593d80e5d2017f98c630ba50b7adb82b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\baed0e2149d71f30d421905fe4aea055\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mozze\.gradle\caches\transforms-3\80a15c24be98b58b995940495e3c4257\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\78e6efeee63858930418a4a0ec90c86d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\9a3105d83e333574c62ec122177261e4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\259db8e1c48df79b7c81cec5c9c1d1fc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\08c5f6e715d8efe8b775b12a0e1be9bc\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\1c437cbc7f9e6b70f9bb8b2501206643\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\17db31aa5ee5b339f6271fd0e665c6bf\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\72ce582dadba4321524f9e0041771f80\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\783480308495e230149ee311aa796372\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\82f58a2cf8470767280ef703a3064ef5\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\0b26e31f78efe74f486f233525185174\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\8cda9c83493ae90a1a83375d3f71f24b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\fbe974fab356d37f3ac1dbebc1f65a2b\transformed\navigation-fragment-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\mozze\.gradle\caches\transforms-3\fce7c84bb1aec76819e48e355a68ef4d\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\f0dcb2802b8264f3ba5a80c5211031ec\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\3101d9e2eae6e23e770b1904603c3346\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\77c803b1823d4fd7909a83bdab267894\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\70796f14b11677e78316d135581b50bf\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\e1f7bcb34b581454002cc2922682b559\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\9be0a5f0095b2d9285fe50a05b898936\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\d1ba7f74b3693492357781531324af93\transformed\navigation-runtime-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\b0fc4fca05cfe5129429962a6c39fabe\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\46d0d30903a840036b94cef4598f82e4\transformed\navigation-common-ktx-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\219af7058db4d8bce3552cdf79042833\transformed\navigation-common-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\mozze\.gradle\caches\transforms-3\1cc4e5080370b2e1cbf54a35d6b9ce58\transformed\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\591324ec446ef894da5baf6c949f5be6\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\99a5080352787b77ba3a0ea248ec58b8\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\0a8e4fd06a0f57883afa13a6b4c2e266\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\cf6a5fbfe9a8221a94d857f9056b56a7\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\b3f5a26ecec910f528cc36a62dc2de58\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\43c012d0f68ed09a697a90f58c6254ee\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\5943a99678cd6886908675367e469a08\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mozze\.gradle\caches\transforms-3\f7e79c94a8bb90fe43e497edd4efa1f1\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\11dfc4a5a80eacdecec663149fc9c286\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\409515313d0e0b60b63dec5d5daf64b7\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\mozze\.gradle\caches\transforms-3\c6adc626757fc05d71fcc638ac61b99a\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\mozze\.gradle\caches\transforms-3\11d67da1dc92e394d537bc6e6dc0aaae\transformed\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\0b3dae9131033bd84592876660638c64\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\02c8cf7961c6b5e8bd6ed45bde2e2b15\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\3ac9e6655136cd48d49d788b6279f593\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\069de89b5e6e318e8a99843c263fdf41\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\8a7be4fdfa5cd6a9464edcea697fd46a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:13:5-42:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\9f2c6f9a4e6c02b5e4b4244e580479e5\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\9f2c6f9a4e6c02b5e4b4244e580479e5\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mozze\.gradle\caches\transforms-3\e0887372f90d422b468c6155de2772c0\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mozze\.gradle\caches\transforms-3\e0887372f90d422b468c6155de2772c0\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\d54f5e1055c35482bf6bf39c9caf056a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\d54f5e1055c35482bf6bf39c9caf056a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\6f87d530494e5e59de6fb5cec18d2d5c\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\6f87d530494e5e59de6fb5cec18d2d5c\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\17db31aa5ee5b339f6271fd0e665c6bf\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\17db31aa5ee5b339f6271fd0e665c6bf\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\72ce582dadba4321524f9e0041771f80\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\72ce582dadba4321524f9e0041771f80\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\783480308495e230149ee311aa796372\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\783480308495e230149ee311aa796372\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\82f58a2cf8470767280ef703a3064ef5\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\82f58a2cf8470767280ef703a3064ef5\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\0b26e31f78efe74f486f233525185174\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\0b26e31f78efe74f486f233525185174\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\mozze\.gradle\caches\transforms-3\1cc4e5080370b2e1cbf54a35d6b9ce58\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\mozze\.gradle\caches\transforms-3\1cc4e5080370b2e1cbf54a35d6b9ce58\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\0b3dae9131033bd84592876660638c64\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\0b3dae9131033bd84592876660638c64\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\mozze\.gradle\caches\transforms-3\1cc4e5080370b2e1cbf54a35d6b9ce58\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:20:9-35
+	android:roundIcon
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:19:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:30:9-32:55
+	android:value
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:31:13-58
+activity#com.psdemo.outdoorexplorer.MainActivity
+ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\9b3af8ee48854956e64c5d03d9d87074\transformed\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\9b3af8ee48854956e64c5d03d9d87074\transformed\jetified-room-ktx-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\73244244278ecba1db05e1268901655e\transformed\navigation-fragment-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\73244244278ecba1db05e1268901655e\transformed\navigation-fragment-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\24199de82f78352fbf90652f7dfe57b6\transformed\navigation-ui-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\24199de82f78352fbf90652f7dfe57b6\transformed\navigation-ui-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\e82ef0145a016b5786cfc6c94b1a3514\transformed\navigation-runtime-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\e82ef0145a016b5786cfc6c94b1a3514\transformed\navigation-runtime-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\mozze\.gradle\caches\transforms-3\8abca6a57d00932525c6fb79138f7c58\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\mozze\.gradle\caches\transforms-3\8abca6a57d00932525c6fb79138f7c58\transformed\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\92a0429493e8d6b2ed74f296025607ba\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\92a0429493e8d6b2ed74f296025607ba\transformed\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\0b16399a87e1e78f0f05bf0455cb9a2e\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\0b16399a87e1e78f0f05bf0455cb9a2e\transformed\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\5e1f8c2d52852577bf112acd22aa052b\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\5e1f8c2d52852577bf112acd22aa052b\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\mozze\.gradle\caches\transforms-3\8ee64754a6241bd3be69dfa0cb091446\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] C:\Users\mozze\.gradle\caches\transforms-3\8ee64754a6241bd3be69dfa0cb091446\transformed\jetified-viewbinding-7.0.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\53619b77004e7848b6e03b5a2c87a6f3\transformed\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\53619b77004e7848b6e03b5a2c87a6f3\transformed\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\9f2c6f9a4e6c02b5e4b4244e580479e5\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\9f2c6f9a4e6c02b5e4b4244e580479e5\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\af0c68fb85ca28fbeb301a4925ca87a9\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\af0c68fb85ca28fbeb301a4925ca87a9\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\mozze\.gradle\caches\transforms-3\c085b2708785adb18f9d6b4f74640dd6\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\mozze\.gradle\caches\transforms-3\c085b2708785adb18f9d6b4f74640dd6\transformed\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mozze\.gradle\caches\transforms-3\e0887372f90d422b468c6155de2772c0\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\mozze\.gradle\caches\transforms-3\e0887372f90d422b468c6155de2772c0\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\d54f5e1055c35482bf6bf39c9caf056a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\d54f5e1055c35482bf6bf39c9caf056a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\1f72b774a3854f3191f37e7c28b8de83\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\1f72b774a3854f3191f37e7c28b8de83\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\6f87d530494e5e59de6fb5cec18d2d5c\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\6f87d530494e5e59de6fb5cec18d2d5c\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\f71653595808e635c261d5272003185a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\f71653595808e635c261d5272003185a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\65b6b623f46b0c249a2643db60cb6c01\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\65b6b623f46b0c249a2643db60cb6c01\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\84eae934e790338eb836be49a0d04bf4\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\84eae934e790338eb836be49a0d04bf4\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\593d80e5d2017f98c630ba50b7adb82b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\593d80e5d2017f98c630ba50b7adb82b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\baed0e2149d71f30d421905fe4aea055\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\baed0e2149d71f30d421905fe4aea055\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mozze\.gradle\caches\transforms-3\80a15c24be98b58b995940495e3c4257\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mozze\.gradle\caches\transforms-3\80a15c24be98b58b995940495e3c4257\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\78e6efeee63858930418a4a0ec90c86d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\78e6efeee63858930418a4a0ec90c86d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\9a3105d83e333574c62ec122177261e4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\9a3105d83e333574c62ec122177261e4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\259db8e1c48df79b7c81cec5c9c1d1fc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\259db8e1c48df79b7c81cec5c9c1d1fc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\08c5f6e715d8efe8b775b12a0e1be9bc\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\08c5f6e715d8efe8b775b12a0e1be9bc\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\1c437cbc7f9e6b70f9bb8b2501206643\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\1c437cbc7f9e6b70f9bb8b2501206643\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\17db31aa5ee5b339f6271fd0e665c6bf\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\17db31aa5ee5b339f6271fd0e665c6bf\transformed\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\72ce582dadba4321524f9e0041771f80\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\72ce582dadba4321524f9e0041771f80\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\783480308495e230149ee311aa796372\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\783480308495e230149ee311aa796372\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\82f58a2cf8470767280ef703a3064ef5\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\82f58a2cf8470767280ef703a3064ef5\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\0b26e31f78efe74f486f233525185174\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\0b26e31f78efe74f486f233525185174\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\8cda9c83493ae90a1a83375d3f71f24b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\8cda9c83493ae90a1a83375d3f71f24b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\fbe974fab356d37f3ac1dbebc1f65a2b\transformed\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\fbe974fab356d37f3ac1dbebc1f65a2b\transformed\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\mozze\.gradle\caches\transforms-3\fce7c84bb1aec76819e48e355a68ef4d\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\mozze\.gradle\caches\transforms-3\fce7c84bb1aec76819e48e355a68ef4d\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\f0dcb2802b8264f3ba5a80c5211031ec\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\f0dcb2802b8264f3ba5a80c5211031ec\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\3101d9e2eae6e23e770b1904603c3346\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\3101d9e2eae6e23e770b1904603c3346\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\77c803b1823d4fd7909a83bdab267894\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\77c803b1823d4fd7909a83bdab267894\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\70796f14b11677e78316d135581b50bf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\70796f14b11677e78316d135581b50bf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\e1f7bcb34b581454002cc2922682b559\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\e1f7bcb34b581454002cc2922682b559\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\9be0a5f0095b2d9285fe50a05b898936\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\9be0a5f0095b2d9285fe50a05b898936\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\d1ba7f74b3693492357781531324af93\transformed\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\d1ba7f74b3693492357781531324af93\transformed\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\b0fc4fca05cfe5129429962a6c39fabe\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\b0fc4fca05cfe5129429962a6c39fabe\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\46d0d30903a840036b94cef4598f82e4\transformed\navigation-common-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\46d0d30903a840036b94cef4598f82e4\transformed\navigation-common-ktx-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\219af7058db4d8bce3552cdf79042833\transformed\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\mozze\.gradle\caches\transforms-3\219af7058db4d8bce3552cdf79042833\transformed\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\mozze\.gradle\caches\transforms-3\1cc4e5080370b2e1cbf54a35d6b9ce58\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\mozze\.gradle\caches\transforms-3\1cc4e5080370b2e1cbf54a35d6b9ce58\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\591324ec446ef894da5baf6c949f5be6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\591324ec446ef894da5baf6c949f5be6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\99a5080352787b77ba3a0ea248ec58b8\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\99a5080352787b77ba3a0ea248ec58b8\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\0a8e4fd06a0f57883afa13a6b4c2e266\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\0a8e4fd06a0f57883afa13a6b4c2e266\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\cf6a5fbfe9a8221a94d857f9056b56a7\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\cf6a5fbfe9a8221a94d857f9056b56a7\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\b3f5a26ecec910f528cc36a62dc2de58\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\b3f5a26ecec910f528cc36a62dc2de58\transformed\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\43c012d0f68ed09a697a90f58c6254ee\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\43c012d0f68ed09a697a90f58c6254ee\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\5943a99678cd6886908675367e469a08\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\5943a99678cd6886908675367e469a08\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mozze\.gradle\caches\transforms-3\f7e79c94a8bb90fe43e497edd4efa1f1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mozze\.gradle\caches\transforms-3\f7e79c94a8bb90fe43e497edd4efa1f1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\11dfc4a5a80eacdecec663149fc9c286\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\11dfc4a5a80eacdecec663149fc9c286\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\409515313d0e0b60b63dec5d5daf64b7\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\409515313d0e0b60b63dec5d5daf64b7\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\mozze\.gradle\caches\transforms-3\c6adc626757fc05d71fcc638ac61b99a\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\mozze\.gradle\caches\transforms-3\c6adc626757fc05d71fcc638ac61b99a\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\mozze\.gradle\caches\transforms-3\11d67da1dc92e394d537bc6e6dc0aaae\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\mozze\.gradle\caches\transforms-3\11d67da1dc92e394d537bc6e6dc0aaae\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\0b3dae9131033bd84592876660638c64\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mozze\.gradle\caches\transforms-3\0b3dae9131033bd84592876660638c64\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\02c8cf7961c6b5e8bd6ed45bde2e2b15\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\02c8cf7961c6b5e8bd6ed45bde2e2b15\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\3ac9e6655136cd48d49d788b6279f593\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\3ac9e6655136cd48d49d788b6279f593\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\069de89b5e6e318e8a99843c263fdf41\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\069de89b5e6e318e8a99843c263fdf41\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\8a7be4fdfa5cd6a9464edcea697fd46a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mozze\.gradle\caches\transforms-3\8a7be4fdfa5cd6a9464edcea697fd46a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mozze\AndroidStudioProjects\GAADS_Location_Aware_Apps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\491fb1afa0a78aa9049cbae01defe465\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\6f87d530494e5e59de6fb5cec18d2d5c\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\6f87d530494e5e59de6fb5cec18d2d5c\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\6f87d530494e5e59de6fb5cec18d2d5c\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\mozze\.gradle\caches\transforms-3\6f87d530494e5e59de6fb5cec18d2d5c\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\72ce582dadba4321524f9e0041771f80\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\72ce582dadba4321524f9e0041771f80\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\72ce582dadba4321524f9e0041771f80\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\72ce582dadba4321524f9e0041771f80\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\0b26e31f78efe74f486f233525185174\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\0b26e31f78efe74f486f233525185174\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mozze\.gradle\caches\transforms-3\0b26e31f78efe74f486f233525185174\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mozze\.gradle\caches\transforms-3\f59fa4ef15ef11701948bed03304a157\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
