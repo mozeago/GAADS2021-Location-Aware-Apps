@@ -1,5 +1,7 @@
 package com.psdemo.outdoorexplorer.ui.locations
 
+import android.annotation.SuppressLint
+import android.location.Location
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -8,8 +10,10 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.Navigation
+import com.google.android.gms.location.LocationServices
 import com.psdemo.outdoorexplorer.R
 import kotlinx.android.synthetic.main.fragment_locations.*
+import pub.devrel.easypermissions.EasyPermissions
 
 class LocationsFragment : Fragment(), LocationsAdapter.OnClickListener {
     private lateinit var adapter: LocationsAdapter
@@ -41,6 +45,26 @@ class LocationsFragment : Fragment(), LocationsAdapter.OnClickListener {
                     })
             }
         }
+        getCurrentLocation()
+    }
+
+    @SuppressLint("MissingPermission")
+    private fun getCurrentLocation() {
+        if (EasyPermissions.hasPermissions(
+                requireContext(),
+                android.Manifest.permission.ACCESS_FINE_LOCATION
+            )
+        ) {
+            val fusedLocationProviderClient =
+                LocationServices.getFusedLocationProviderClient(requireContext())
+            fusedLocationProviderClient.lastLocation.addOnSuccessListener { location: Location? ->
+                if (location != null) {
+                    adapter.setCurrentLocation(location)
+                }
+            }
+        }
+
+
     }
 
     override fun onClick(id: Int) {
